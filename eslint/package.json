@@ -1,0 +1,28 @@
+{
+  "name": "@jeff9511/eslint-config-jeff",
+  "version": "1.0.0",
+  "description": "jeff9511 config for eslint",
+  "keywords": [
+    "eslint",
+    "jeff"
+  ],
+  "author": "jeff9511",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "dependencies": {
+		"@typescript-eslint/parser": "^2.0.0",
+		"@vue/eslint-config-standard": "^4.0.0",
+		"@vue/eslint-config-typescript": "^4.0.0",
+		"babel-eslint": "^10.0.1",
+		"eslint": "^5.16.0",
+		"eslint-config-prettier": "^6.0.0",
+		"eslint-plugin-prettier": "^3.1.1",
+		"eslint-plugin-vue": "^5.0.0"
+	}
+}

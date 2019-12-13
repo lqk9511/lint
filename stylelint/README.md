@@ -1,5 +1,5 @@
 # @jeff9511/stylelint-config-jeff
-[![npm（scoped）](https://img.shields.io/badge/npm-1.0.0-brightgreen)](https://github.com/lqk9511/stylelint-config-jeff)
+[![npm（scoped）](https://img.shields.io/badge/npm-1.0.5-brightgreen)](https://github.com/lqk9511/stylelint-config-jeff)
 
 ## Install
 ```sh
