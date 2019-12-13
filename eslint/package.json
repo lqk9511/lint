@@ -1,6 +1,6 @@
 {
   "name": "@jeff9511/eslint-config-jeff",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "jeff9511 config for eslint",
   "keywords": [
     "eslint",
@@ -16,13 +16,14 @@
   },
   "main": "index.js",
   "dependencies": {
-		"@typescript-eslint/parser": "^2.0.0",
-		"@vue/eslint-config-standard": "^4.0.0",
-		"@vue/eslint-config-typescript": "^4.0.0",
-		"babel-eslint": "^10.0.1",
-		"eslint": "^5.16.0",
-		"eslint-config-prettier": "^6.0.0",
-		"eslint-plugin-prettier": "^3.1.1",
-		"eslint-plugin-vue": "^5.0.0"
-	}
+    "@typescript-eslint/parser": "^2.0.0",
+    "@vue/eslint-config-standard": "^4.0.0",
+    "@vue/eslint-config-prettier": "^5.0.0",
+    "@vue/eslint-config-typescript": "^4.0.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-config-prettier": "^6.0.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^5.0.0"
+  }
 }
