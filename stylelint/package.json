@@ -1,0 +1,28 @@
+{
+  "name": "@jeff9511/stylelint-config-jeff",
+  "version": "1.0.2",
+  "description": "jeff9511 config for stylelint",
+  "keywords": [
+    "stylelint",
+    "jeff"
+  ],
+  "author": "jeff9511",
+  "license": "MIT",
+  "repository": {
+    "type": "git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "devDependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-config-prettier": "^8.0.0",
+    "stylelint-config-standard": "^19.0.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^12.0.0",
+    "stylelint-config-prettier": "^8.0.0",
+    "stylelint-config-standard": "^19.0.0"
+  }
+}
